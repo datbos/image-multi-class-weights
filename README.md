@@ -3,7 +3,7 @@ A multi class Image classification using Keras-Tensorflow Convolutional Neural N
 
 ## Getting Started
 Data file is CSV file with headings 
-['Type',
+- ['Type',
  'Name',
  'Age',
  'Breed1',
