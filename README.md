@@ -30,14 +30,14 @@ Data file is CSV file with headings
 
 #### Image-Multi-Class-Data-Analysis
 
--Procesing of Raw CSV data into a dataframe according to the sorting class. Analysis of the data showing histograms, Input variable correlation heat maps and histogram correlation plots
+- Procesing of Raw CSV data into a dataframe according to the sorting class. Analysis of the data showing histograms, Input variable correlation heat maps and histogram correlation plots
 #### Image-Multi-Class-Image-Transform
 
--Transform images to increase data set and add variability to avoid overfitting of small data sets. This variation shows sample of transformed images according to transform settings.
+- Transform images to increase data set and add variability to avoid overfitting of small data sets. This variation shows sample of transformed images according to transform settings.
 #### Image-Multi-Class-Image-Confusion
--Confusion matrix for multi class CNN to clearafy the distribution of class predictions.
+- Confusion matrix for multi class CNN to clearafy the distribution of class predictions.
 #### Image-Multi-Class-Weights
--For multi-class datasets with an uneven distribution of classes, weights for each class according to degree of underrepresentaion.
+- For multi-class datasets with an uneven distribution of classes, weights for each class according to degree of underrepresentaion.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
