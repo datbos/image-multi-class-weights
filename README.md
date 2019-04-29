@@ -29,6 +29,7 @@ Data file is CSV file with headings
  'AdoptionSpeed']
 
 - Image-Multi-Class-Data-Analysis
+-- Analysis of the data showing histograms, Input variable correlation heat maps and histogram correlation plots
 - Image-Multi-Class-Image-Transform
 - Image-Multi-Class-Image-Confusion
 - Image-Multi-Class-Weights
